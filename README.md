@@ -11,5 +11,5 @@ Specially for **Natural Language Processing**
 - install 'pillow' for Python to manage Images
 - install 'pytesseract' for python 
 
-> for Linux/Debian
+> for Linux/Debian 😄
 `pip3 install pytesseract pillow`
