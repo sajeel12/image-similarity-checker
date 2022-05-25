@@ -12,4 +12,6 @@ Specially for **Natural Language Processing**
 - install 'pytesseract' for python 
 
 > for Linux/Debian 😄
-`pip3 install pytesseract pillow`
+- -
+```pip3 install pytesseract pillow
+```
