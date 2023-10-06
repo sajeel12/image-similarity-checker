@@ -1,4 +1,7 @@
+<div style="display:flex;justify-content:center;"  >
 <img alt="MasoomNetworkImage" src="https://lh3.googleusercontent.com/p/AF1QipOI7WW5FtaeY9fEjt0Nn7CIKbF57BSv5qmds_Rk=w1080-h608-p-no-v0" height="200" >
+</div>
+  
 
 ### Masoom Network
 
